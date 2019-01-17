@@ -1,4 +1,4 @@
-#!/usr/local/Cellar/unox/0.2.0_1/libexec/bin/python2.7
+#!/usr/bin/env python
 #
 # unox
 #
